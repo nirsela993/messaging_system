@@ -1,0 +1,1 @@
+web: gunicorn herolo_exr.wsgi
