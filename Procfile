@@ -1,1 +1,1 @@
-web: gunicorn herolo_exr.wsgi
+web: gunicorn messaging_system.wsgi

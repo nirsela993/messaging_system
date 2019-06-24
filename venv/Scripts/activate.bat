@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Nir\PycharmProjects\herolo_exr\venv"
+set "VIRTUAL_ENV=C:\Users\Nir\PycharmProjects\herolo_exrcise\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
