@@ -8,7 +8,7 @@ django-silk==0.7.0
 djangorestframework==3.3.3
 gunicorn==19.9.0
 idna==2.8
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 psycopg2==2.8.3
 pycodestyle==2.5.0
